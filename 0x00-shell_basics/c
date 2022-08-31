@@ -1,0 +1,12 @@
+#!/bin/bash
+chmod u+x 4-listmorefiles
+
+chmod u+x 5-listfilesdigitonly
+
+chmod u+x 6-firstdirectory
+
+chmod u+x 7-movethatfile
+
+chmod u+x 8-firstdelete
+
+chmod u+x 9-firstdirdeletion
