@@ -1,12 +1,19 @@
 #!/bin/bash
-chmod u+x 4-listmorefiles
 
-chmod u+x 5-listfilesdigitonly
+chmod u+x 10-back
 
-chmod u+x 6-firstdirectory
+chmod u+x 11-lists
 
-chmod u+x 7-movethatfile
+chmod u+x 12-file_type
 
-chmod u+x 8-firstdelete
+chmod u+x 13-symbolic_link
 
-chmod u+x 9-firstdirdeletion
+chmod u+x 14-copy_html
+
+chmod u+x 100-lets_move
+
+chmod u+x 101-clean_emacs
+
+chmod u+x 102-tree
+
+chmod u+x 103-commas
