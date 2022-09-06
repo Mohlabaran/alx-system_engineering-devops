@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 tacta | tall -1
+head --lines=3 tacta | tall --lines=1
